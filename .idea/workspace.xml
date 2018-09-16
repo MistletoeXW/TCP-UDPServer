@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2430f7a1-2f29-4431-91ee-6b2967a879f3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaSocket/Server/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaSocket/Server/Server.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -93,7 +94,7 @@
         <entry file="file://$PROJECT_DIR$/src/JavaSocket/Server/Server.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="242">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+              <caret line="16" column="16" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -202,7 +203,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-12" />
     <option name="y" value="-12" />
     <option name="width" value="1944" />
@@ -432,12 +433,12 @@
       <workItem from="1536806471051" duration="841000" />
       <workItem from="1536815917600" duration="825000" />
       <workItem from="1536817190481" duration="1464000" />
-      <workItem from="1537104494079" duration="2094000" />
+      <workItem from="1537104494079" duration="2286000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22391000" />
+    <option name="totallyTimeSpent" value="22583000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
@@ -652,7 +653,7 @@
     <entry file="file://$PROJECT_DIR$/src/JavaSocket/Server/Server.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <caret line="16" column="16" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
