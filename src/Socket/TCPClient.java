@@ -15,13 +15,13 @@ import java.net.Socket;
  * @author: xw
  * @create: 2018-09-05 19:29
  **/
-public class TCPClien extends JFrame {
+public class TCPClient extends JFrame {
     private PrintWriter writer;     //声明PrintWriter类对象
     Socket socket;                  //声明Socket对象
     private JTextArea ta = new JTextArea(); //创建JTextArea对象
     private JTextField tf = new JTextField(); //创建JTextArea对象
     Container cc;                  //声明Container对象
-    public TCPClien(String title){
+    public TCPClient(String title){
         super(title);              //调用父类的构造方法
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         cc = this.getContentPane();
@@ -49,7 +49,7 @@ public class TCPClien extends JFrame {
     private void connect(){
         ta.append("尝试连接\n");       //文本域中显示内容
         try{
-            socket = new Socket("10.95.209.6",8998);  //实例化Socket对象
+            socket = new Socket("10.95.76.107",8998);  //实例化Socket对象
             writer = new PrintWriter(socket.getOutputStream(), true);
             ta.append("完成连接\n");
         }catch (Exception e){
@@ -58,9 +58,9 @@ public class TCPClien extends JFrame {
     }
 
     public static void main(String[] args){
-        TCPClien clien = new TCPClien("向服务器发送数据");
-        clien.setSize(200,200);   //设置窗体大小
-        clien.setVisible(true);                 //将窗体显示
-        clien.connect();                       //调用连接方法
+        TCPClient client = new TCPClient("向服务器发送数据");
+        client.setSize(250,250);   //设置窗体大小
+        client.setVisible(true);                 //将窗体显示
+        client.connect();                       //调用连接方法
     }
 }
