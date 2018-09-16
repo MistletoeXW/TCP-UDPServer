@@ -14,7 +14,6 @@ import java.util.ArrayList;
  * @create: 2018-09-12 23:36
  **/
 public class Server extends Thread {
-
     ServerUI ui;
     ServerSocket ss;
     BufferedReader reader;
