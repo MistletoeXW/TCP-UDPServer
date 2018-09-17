@@ -40,7 +40,7 @@ public class ListenerClient extends Thread{
                 break;
             }
             if (msg != null && msg.trim() != "") {
-                println(">>" + msg);
+                println(">>客户端：" + msg);
             }
         }
     }

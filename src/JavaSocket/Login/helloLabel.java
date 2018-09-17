@@ -30,7 +30,7 @@ public class helloLabel extends JFrame {
         jf_1=new JFrame("登陆界面");
         jf_1.setSize(450, 400);
         //给登陆界面添加背景图片
-        ImageIcon bgim = new ImageIcon(helloLabel.class.getResource("xuwen.PNG")) ;//背景图案
+        ImageIcon bgim = new ImageIcon(helloLabel.class.getResource("xuwen.png")) ;//背景图案
         bgim.setImage(bgim.getImage().
                 getScaledInstance(bgim.getIconWidth(),
                         bgim.getIconHeight(),

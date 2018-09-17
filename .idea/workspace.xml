@@ -3,7 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="2430f7a1-2f29-4431-91ee-6b2967a879f3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaSocket/Server/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaSocket/Server/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/WebScoket/JavaSocket/Client/ClientThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/WebScoket/JavaSocket/Client/ClientThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/WebScoket/JavaSocket/Client/ClientUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/WebScoket/JavaSocket/Client/ClientUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/WebScoket/JavaSocket/Login/helloLabel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/WebScoket/JavaSocket/Login/helloLabel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/WebScoket/JavaSocket/Server/Server.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/WebScoket/JavaSocket/Server/Server.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaSocket/Client/ClientThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaSocket/Client/ClientThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaSocket/Client/ClientUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaSocket/Client/ClientUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaSocket/Login/helloLabel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaSocket/Login/helloLabel.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -58,13 +64,43 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="1600588906">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="32" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="32" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Socket/TcpSmpPort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1034">
+            <state relative-caret-position="940">
               <caret line="53" column="29" selection-start-line="53" selection-start-column="29" selection-end-line="53" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -81,8 +117,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/JavaSocket/Client/ClientThread.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+            <state relative-caret-position="340">
+              <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -91,10 +127,24 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/JavaSocket/Client/ClientUI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="429">
+              <caret line="59" column="31" selection-start-line="59" selection-start-column="31" selection-end-line="59" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#395#396#0" expanded="true" />
+                <element signature="e#443#444#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/JavaSocket/Server/Server.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="16" column="16" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+            <state relative-caret-position="220">
+              <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -105,7 +155,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/JavaSocket/Server/ServerUI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
+            <state relative-caret-position="380">
               <caret line="26" selection-start-line="26" selection-end-line="26" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -117,7 +167,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/JavaSocket/Server/ListenerClient.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="836">
+            <state relative-caret-position="760">
               <caret line="42" column="28" selection-start-line="42" selection-start-column="28" selection-end-line="42" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -129,7 +179,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/QQ/SocketClient.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
+            <state relative-caret-position="420">
               <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -141,8 +191,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/JavaSocket/Login/helloLabel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1672">
-              <caret line="83" column="17" selection-start-line="83" selection-start-column="17" selection-end-line="83" selection-end-column="17" />
+            <state relative-caret-position="2000">
+              <caret line="107" column="46" selection-start-line="107" selection-start-column="46" selection-end-line="107" selection-end-column="46" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -153,7 +203,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/QQ/SocketServer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2112">
+            <state relative-caret-position="1920">
               <caret line="103" column="13" selection-start-line="103" selection-start-column="13" selection-end-line="103" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -191,9 +241,10 @@
         <option value="$PROJECT_DIR$/src/Server/ServerUI.java" />
         <option value="$PROJECT_DIR$/src/JavaSocket/Server/ServerUI.java" />
         <option value="$PROJECT_DIR$/src/Socket/TCPClient.java" />
+        <option value="$PROJECT_DIR$/src/JavaSocket/Server/Server.java" />
         <option value="$PROJECT_DIR$/src/JavaSocket/Login/helloLabel.java" />
         <option value="$PROJECT_DIR$/src/JavaSocket/Client/ClientThread.java" />
-        <option value="$PROJECT_DIR$/src/JavaSocket/Server/Server.java" />
+        <option value="$PROJECT_DIR$/src/JavaSocket/Client/ClientUI.java" />
       </list>
     </option>
   </component>
@@ -248,60 +299,54 @@
         <subPane>
           <expand>
             <path>
-              <item name="WebScoket" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebScoket" type="462c0819:PsiDirectoryNode" />
+              <item name="TCP-UDPServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TCP-UDPServer" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="WebScoket" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebScoket" type="462c0819:PsiDirectoryNode" />
+              <item name="TCP-UDPServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TCP-UDPServer" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="WebScoket" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebScoket" type="462c0819:PsiDirectoryNode" />
+              <item name="TCP-UDPServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TCP-UDPServer" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="JavaSocket" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="WebScoket" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebScoket" type="462c0819:PsiDirectoryNode" />
+              <item name="TCP-UDPServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TCP-UDPServer" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="JavaSocket" type="462c0819:PsiDirectoryNode" />
               <item name="Client" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="WebScoket" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebScoket" type="462c0819:PsiDirectoryNode" />
+              <item name="TCP-UDPServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TCP-UDPServer" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="JavaSocket" type="462c0819:PsiDirectoryNode" />
               <item name="Login" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="WebScoket" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebScoket" type="462c0819:PsiDirectoryNode" />
+              <item name="TCP-UDPServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TCP-UDPServer" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="JavaSocket" type="462c0819:PsiDirectoryNode" />
               <item name="Server" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WebScoket" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebScoket" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Socket" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536821695115" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537154581885" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -340,6 +385,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ClientUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaSocket.Client.ClientUI" />
+      <module name="WebScoket" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaSocket.Client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SocketClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="QQ.SocketClient" />
       <module name="WebScoket" />
@@ -366,19 +424,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TCPClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Socket.TCPClient" />
-      <module name="WebScoket" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Socket.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="helloLabel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaSocket.Login.helloLabel" />
       <module name="WebScoket" />
@@ -393,19 +438,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.TCPClient" />
       <item itemvalue="Application.SocketServer" />
       <item itemvalue="Application.SocketClient" />
       <item itemvalue="Application.helloLabel" />
       <item itemvalue="Application.Address" />
+      <item itemvalue="Application.ClientUI" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.helloLabel" />
+        <item itemvalue="Application.ClientUI" />
         <item itemvalue="Application.Address" />
         <item itemvalue="Application.SocketClient" />
         <item itemvalue="Application.SocketServer" />
-        <item itemvalue="Application.TCPClient" />
       </list>
     </recent_temporary>
   </component>
@@ -434,16 +479,18 @@
       <workItem from="1536815917600" duration="825000" />
       <workItem from="1536817190481" duration="1464000" />
       <workItem from="1537104494079" duration="2286000" />
+      <workItem from="1537143827720" duration="1771000" />
+      <workItem from="1537154939593" duration="7000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22583000" />
+    <option name="totallyTimeSpent" value="24361000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="0" y="0" width="1920" height="1026" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19669509" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20106952" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -452,13 +499,13 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3291815" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39679715" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32879817" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3956916" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.60803473" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.6076663" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.3291815" />
@@ -513,33 +560,15 @@
     <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/lang/ref/Reference.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="163" column="31" selection-start-line="163" selection-start-column="31" selection-end-line="163" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/lang/ref/Reference.java" />
     <entry file="file://$PROJECT_DIR$/WebScoket.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Server/UI.form" />
     <entry file="file://$PROJECT_DIR$/src/Server/UI.java" />
     <entry file="file://$PROJECT_DIR$/src/JavaSocket/q.java" />
-    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.desktop/javax/swing/JFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="376" column="16" selection-start-line="376" selection-start-column="16" selection-end-line="376" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.desktop/javax/swing/WindowConstants.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1276">
-          <caret line="81" column="7" selection-start-line="81" selection-start-column="7" selection-end-line="81" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.desktop/javax/swing/JFrame.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.desktop/javax/swing/WindowConstants.java" />
     <entry file="file://$PROJECT_DIR$/src/Socket/TCPClient.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="902">
@@ -554,32 +583,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="484">
           <caret line="23" selection-start-line="23" selection-end-line="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaSocket/Client/ClientUI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="12" column="14" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/io/PrintWriter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="819" column="16" selection-start-line="819" selection-start-column="16" selection-end-line="819" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/io/PrintWriter.java" />
     <entry file="file://$PROJECT_DIR$/src/Socket/TcpSmpPort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1034">
+        <state relative-caret-position="940">
           <caret line="53" column="29" selection-start-line="53" selection-start-column="29" selection-end-line="53" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -592,8 +602,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/JavaSocket/Client/ClientThread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+        <state relative-caret-position="340">
+          <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaSocket/Server/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -602,7 +622,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/JavaSocket/Server/ServerUI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
+        <state relative-caret-position="380">
           <caret line="26" selection-start-line="26" selection-end-line="26" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -612,7 +632,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/JavaSocket/Server/ListenerClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="836">
+        <state relative-caret-position="760">
           <caret line="42" column="28" selection-start-line="42" selection-start-column="28" selection-end-line="42" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -622,7 +642,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/QQ/SocketClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
+        <state relative-caret-position="420">
           <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -632,8 +652,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/JavaSocket/Login/helloLabel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1672">
-          <caret line="83" column="17" selection-start-line="83" selection-start-column="17" selection-end-line="83" selection-end-column="17" />
+        <state relative-caret-position="2000">
+          <caret line="107" column="46" selection-start-line="107" selection-start-column="46" selection-end-line="107" selection-end-column="46" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -642,7 +662,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/QQ/SocketServer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2112">
+        <state relative-caret-position="1920">
           <caret line="103" column="13" selection-start-line="103" selection-start-column="13" selection-end-line="103" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -650,12 +670,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaSocket/Server/Server.java">
+    <entry file="file://$PROJECT_DIR$/src/JavaSocket/Client/ClientUI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="16" column="16" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+        <state relative-caret-position="429">
+          <caret line="59" column="31" selection-start-line="59" selection-start-column="31" selection-end-line="59" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#395#396#0" expanded="true" />
+            <element signature="e#443#444#0" expanded="true" />
           </folding>
         </state>
       </provider>

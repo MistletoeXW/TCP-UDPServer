@@ -22,7 +22,7 @@ public class ClientThread extends Thread{
     public ClientThread(ClientUI ui) {
         this.ui = ui;
         try {
-            client = new Socket("10.95.76.99", 1228);//这里设置连接服务器端的IP的端口
+            client = new Socket("10.95.7.21", 1228);//这里设置连接服务器端的IP的端口
             println("连接服务器成功：端口1228");
             reader = new BufferedReader(new InputStreamReader(
                     client.getInputStream()));

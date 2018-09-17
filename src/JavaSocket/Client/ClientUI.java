@@ -21,9 +21,9 @@ public class ClientUI extends JFrame {
         super("客户端");
         btStart = new JButton("启动连接");
         btSend = new JButton("发送信息");
-        tfSend = new JTextField(10);
-        tfIP = new JTextField(10);
-        tfPost = new JTextField(5);
+        tfSend = new JTextField(20);
+        tfIP = new JTextField(20);
+        tfPost = new JTextField(10);
         taShow = new JTextArea();
 
         btStart.addActionListener(new ActionListener() {
@@ -57,8 +57,8 @@ public class ClientUI extends JFrame {
         this.taShow.setEditable(false);
         this.add(sp, BorderLayout.CENTER);
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        this.setSize(400, 300);
-        this.setLocation(600, 200);
+        this.setSize(500, 400);
+        this.setLocation(800, 300);
         this.setVisible(true);
     }
 
