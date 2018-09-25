@@ -29,7 +29,7 @@ public class ServerUI extends JFrame {
         super("服务器端");
         btStart = new JButton("启动服务");
         btSend = new JButton("发送信息");
-        tfSend = new JTextField(10);
+        tfSend = new JTextField(20);
         taShow = new JTextArea();
 
         btStart.addActionListener(new ActionListener() {
@@ -64,8 +64,8 @@ public class ServerUI extends JFrame {
         this.taShow.setEditable(false);
         this.add(sp, BorderLayout.CENTER);
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        this.setSize(400, 300);
-        this.setLocation(100, 200);
+        this.setSize(500, 400);
+        this.setLocation(800, 300);
         this.setVisible(true);
     }
 
